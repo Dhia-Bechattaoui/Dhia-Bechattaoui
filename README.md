@@ -3,7 +3,7 @@
 ## 💻 IT Technician & Developer | Mobile Developer at InnovaWide
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=100&lines=Passionate+Developer;Problem+Solver;Innovation+Enthusiast;Team+Player" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=100&lines=Passionate+Developer;Problem+Solver;Innovation+Enthusiast;Team+Player" alt="Typing SVG" />
 </div>
 
 ---
@@ -77,7 +77,7 @@ Currently working as a **Mobile Developer at InnovaWide**, I'm passionate about 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhia-Bechattaoui&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=6366F1" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Dhia-Bechattaoui&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=6366F1" alt="GitHub Streak" />
 </div>
 
 ---
@@ -100,9 +100,8 @@ Currently working as a **Mobile Developer at InnovaWide**, I'm passionate about 
 
 ### 🎯 **Freelance Developer**
 *November 2023 - Present*
-- **Python-PLC Communication App**: Crafting an application to facilitate seamless communication between Python and PLCs for data collection and AI-driven analysis
 - **Series Legend**: An engaging TV series quiz game poised to captivate fans worldwide
-- **Albion Online Market Database**: Website allowing players to track item prices and save personal buy/sell prices
+- **me + u**: A modern dating and matching app connecting people through location-based discovery
 
 ### 👨‍🏫 **Programming Instructor** - Sadeem Training Center
 *April 2023 - October 2023*
@@ -158,33 +157,19 @@ Currently working as a **Mobile Developer at InnovaWide**, I'm passionate about 
 
 ## 🚀 Current Projects
 
-### 🔧 **Python-PLC Communication App**
-> *Industrial automation solution for seamless Python-PLC data exchange*
-- **Tech Stack**: Python, Modbus TCP, SQLite, PyQt5
-- **Features**: Real-time data collection, AI-driven analysis, automated reporting
-- **Status**: In Development (80% Complete)
-- **GitHub**: [Repository Link](#)
-
 ### 🎮 **Series Legend - TV Quiz Game**
 > *Interactive quiz game for TV series enthusiasts*
 - **Tech Stack**: Flutter, Dart, Firebase, Cloud Firestore
 - **Features**: Multiple categories, leaderboards, offline mode, push notifications
-- **Status**: In Development (60% Complete)
-- **GitHub**: [Repository Link](#)
+- **Status**: ✅ Completed - Ongoing feature development
+- **Play Store**: [Download on Google Play](https://play.google.com/store/apps/details?id=com.vipzone.serieslegend)
 
-### 💰 **Albion Online Market Database**
-> *Comprehensive market tracking system for Albion Online players*
-- **Tech Stack**: React, Node.js, MongoDB, Express.js
-- **Features**: Real-time price tracking, personal buy/sell lists, market analytics
-- **Status**: In Development (70% Complete)
-- **GitHub**: [Repository Link](#)
-
-### 📱 **InnovaWide Legal Solutions**
-> *Mobile applications for law firms and legal professionals*
-- **Tech Stack**: Flutter, Dart, Firebase, Google Cloud
-- **Features**: Case management, document handling, client communication
-- **Status**: Active Development
-- **Company**: InnovaWide
+### 💕 **me + u**
+> *A modern dating and matching app connecting people through location-based discovery*
+- **Tech Stack**: Flutter, Dart, Firebase (Auth, Firestore, Storage, Messaging), Google Maps, Agora RTC Engine, Riverpod
+- **Features**: Swipe-based matching, real-time chat, video calls, location-based discovery, photo verification, push notifications, social media integration, in-app purchases
+- **Status**: In Development
+- **Repository**: 🔒 Private
 
 ---
 
@@ -192,18 +177,13 @@ Currently working as a **Mobile Developer at InnovaWide**, I'm passionate about 
   <table>
     <tr>
       <td align="center">
-        <a href="#">
-          <img src="https://img.shields.io/badge/-Python%20PLC%20App-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
+        <a href="https://play.google.com/store/apps/details?id=com.vipzone.serieslegend">
           <img src="https://img.shields.io/badge/-Series%20Legend%20Game-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white" />
         </a>
       </td>
       <td align="center">
-        <a href="#">
-          <img src="https://img.shields.io/badge/-Albion%20Market%20DB-4A90E2?style=for-the-badge&logo=database&logoColor=white" />
+        <a href="https://github.com/Dhia-Bechattaoui">
+          <img src="https://img.shields.io/badge/-me%20%2B%20u-6366F1?style=for-the-badge&logo=code&logoColor=white" />
         </a>
       </td>
     </tr>
@@ -233,7 +213,7 @@ Currently working as a **Mobile Developer at InnovaWide**, I'm passionate about 
 
 <div align="center">
   <a href="mailto:Bechattaoui.dhiaeddine@outlook.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/Dhiaeddine-Bechattaoui">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -260,7 +240,7 @@ Currently working as a **Mobile Developer at InnovaWide**, I'm passionate about 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=Ready+to+collaborate+on+amazing+projects!;Let's+build+something+incredible+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=Ready+to+collaborate+on+amazing+projects!;Let's+build+something+incredible+together!" alt="Typing SVG" />
 </div>
 
 ---
