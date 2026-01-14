@@ -16,23 +16,47 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       
-      - name: Validate README
+      - name: Update README with timestamp
         run: |
-          if [ ! -f README.md ]; then
+          # Get current date
+          DATE=$(date -u "+%Y-%m-%d %H:%M:%S UTC")
+          
+          # Check if README exists
+          if [ -f README.md ]; then
+            # Update the LAST_UPDATED section
+            # Use a temporary file to avoid issues with sed in-place on different platforms/versions if needed, 
+            # but standard sed -i should work on ubuntu-latest.
+            # Using perl for deeper compatibility with special characters if any, but simple substitution here.
+            
+            # We look for separate line <!-- LAST_UPDATED --> and replace it or append after it.
+            # Let's replace the line containing <!-- LAST_UPDATED --> with the comment plus the date.
+            # Or better, just ensure we have the placeholder.
+            
+            # Helper to replace content
+            sed -i "s/<!-- LAST_UPDATED -->/<!-- LAST_UPDATED -->\n<p align='center'>Last Updated: $DATE<\/p>/g" README.md
+            
+            # If the date was already there from previous run, we might want to replace the whole block.
+            # A simpler approach for "Last Updated" is just to rewrite a specific line or block.
+            # Let's try to find the marker and replace everything after it or just the line.
+            
+            # To handle consecutive runs without duplicating, we can just revert to the marker first (if we want to be fancy)
+            # OR, simpler: Just usegit sed to replace the *previous* timestamp if it exists.
+            
+            # Resetting to just the marker to avoid duplicates
+            sed -i '/Last Updated:/d' README.md
+            sed -i "s/<!-- LAST_UPDATED -->/<!-- LAST_UPDATED -->\n<p align='center'>Last Updated: $DATE<\/p>/" README.md
+            
+            echo "Updated README with timestamp: $DATE"
+          else
             echo "README.md not found!"
             exit 1
           fi
-          echo "✅ README.md exists and is valid"
-      
-      - name: Update timestamp (optional)
-        run: |
-          # This is a placeholder for any future updates
-          # You can add logic here to update the README if needed
-          echo "README is up to date"
-      
-      - name: Commit changes (if any)
+
+      - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git diff --exit-code || (git add -A && git commit -m "chore: update README [skip ci]" && git push)
+          git add README.md
+          # Only commit if there are changes (timestamp changed)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update README timestamp [skip ci]" && git push)
 
