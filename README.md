@@ -70,23 +70,13 @@ Currently working as a **Mobile Developer at InnovaWide**, I'm passionate about 
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhia-Bechattaoui&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dhia-Bechattaoui&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=6366F1" alt="GitHub Streak" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhia-Bechattaoui&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
 
 ---
 
@@ -192,11 +182,7 @@ Currently working as a **Mobile Developer at InnovaWide**, I'm passionate about 
 
 ---
 
-## 📈 Top Languages
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhia-Bechattaoui&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
-</div>
 
 ---
 
