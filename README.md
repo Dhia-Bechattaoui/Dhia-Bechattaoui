@@ -10,9 +10,9 @@
 
 ## 🎯 About Me
 
-> *"With 5 years of experience, I excel in troubleshooting hardware and software issues, optimizing system performance, and implementing network infrastructure. As a Developer, I possess strong design and integration skills, adept at problem-solving."*
+> *"Dynamic Flutter & Automation Developer with 6+ years of experience delivering high-performance mobile and automation solutions across fintech, legal tech, healthcare, and enterprise systems. Specialized in building scalable Flutter architectures, animation engines, and workflow automation using Azure OpenAI, Firebase, Kotlin, Swift, and Python. Proven track record of reducing development time by up to 70%, optimizing performance by 35–50%, and delivering 20+ production applications for startups, agencies, and enterprises."*
 
-Currently working as a **Mobile Developer at InnovaWide**, I'm passionate about creating innovative solutions that solve real-world problems. I believe in continuous learning and staying up-to-date with the latest technology trends.
+Currently driving innovation in **animation orchestration and automation at Digital Pomegranate** while leading **mobile solutions at Innova Wide for Smart Solutions**.
 
 ---
 
@@ -82,37 +82,23 @@ Currently working as a **Mobile Developer at InnovaWide**, I'm passionate about 
 
 ## 💼 Professional Experience
 
-### 🚀 **Mobile Developer** - InnovaWide
-*August 15, 2024 - Present*
-- Developing mobile applications using Flutter
-- Working on law firm applications and legal software solutions
-- Cross-platform mobile development expertise
+### 🚀 **Flutter & Automation Developer** - Digital Pomegranate
+*January 2026 - Present | Gyumri*
+- **Animation Orchestration**: Constructed a flexible Flutter orchestration layer using Lottie JSON templates, enabling runtime customization for 50+ animation assets and reducing development time by **30%**.
+- **Automation Pipelines**: Applied real-time JSON transformation pipelines with Jinja preprocessing to automate design parameter injection, cutting manual animation configuration by **70%**.
+- **Performance Optimization**: Created a Multi-Animation Container architecture combining base layouts with lightweight overlays, reducing animation payload size by **50%** and improving runtime performance by **35%**.
 
-### 🎯 **Freelance Developer**
-*November 2023 - Present*
-- **Series Legend**: An engaging TV series quiz game poised to captivate fans worldwide
-- **me + u**: A modern dating and matching app connecting people through location-based discovery
+### 📱 **Mobile & Full-Stack Developer** - Innova Wide for Smart Solutions
+*August 2024 - Present | Doha, Qatar*
+- **Production Apps**: Built and released **5 production-grade mobile applications** using Flutter, Firebase, Kotlin, and Swift for public and enterprise deployments.
+- **Legal Tech**: Planned and delivered 4 law firm management systems enabling digital case, client, document, appointment, and notification handling across multiple legal offices.
+- **AI Integration**: Integrated **Azure OpenAI** to automate legal workflows, generate summaries, and assist with document processing, reducing manual effort by **30–40%**.
 
-### 👨‍🏫 **Programming Instructor** - Sadeem Training Center
-*April 2023 - October 2023*
-- Conducted programming and cybersecurity training sessions
-- Supervised final-year students in computer science and programming on capstone projects
-- Managed IT systems and technical applications
-
-### 🔧 **Support Technician Engineer** - Bamboo Studio
-*January 2023 - March 2023*
-- Catalyzed **30% reduction** in average ticket resolution time
-- Proactive troubleshooting and knowledge base expansion
-
-### 💻 **Software Developer** - Bamboo Studio
-*October 2021 - October 2022*
-- **LightCare Mobile App**: Revolutionizing patient management with online appointment scheduling, medical records, and billing
-- **High-traffic Web Application**: Developed using React and Node.js, improving load times by **30%**
-- **RESTful APIs**: Implemented for financial services platform, enhancing data processing efficiency by **40%**
-- **Team Leadership**: Led team of 5 in successful migration to microservices architecture
-- **Automation**: Reduced manual testing time by **50%** using Selenium
-- **Performance**: Optimized database queries, resulting in **25%** performance improvement
-- **CI/CD**: Designed and maintained Jenkins pipelines, increasing deployment frequency by **20%**
+### 🎯 **Mobile Developer** - Freelance
+*November 2020 - Present | El-Hamma, Gabes, Tunisia*
+- **Client Satisfaction**: Produced **15+ client applications** across gaming, advertising, finance, e-commerce, healthcare, legal, construction, insurance, and real estate sectors, achieving **4.5/5 average user satisfaction**.
+- **Industrial Automation**: Executed an industrial data collection system integrating Python with PLC hardware, automating data capture for **500+ machines**, reducing manual entry by **85%**.
+- **Custom Integrations**: Customized native APIs and third-party integrations to meet complex client requirements, boosting client productivity by **40%** and decreasing support tickets by **30%**.
 
 ---
 
@@ -198,6 +184,9 @@ Currently working as a **Mobile Developer at InnovaWide**, I'm passionate about 
 ## 📞 Let's Connect
 
 <div align="center">
+  <a href="https://www.bechattaoui.dev">
+    <img src="https://img.shields.io/badge/-Website-181717?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+  </a>
   <a href="mailto:Bechattaoui.dhiaeddine@outlook.com">
     <img src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
