@@ -54,7 +54,3 @@ jobs:
           plugin_lines: yes
           
           plugin_traffic: yes
-
-          plugin_streak: yes
-          plugin_streak_mode: weekly
-          plugin_streak_mask: 31
