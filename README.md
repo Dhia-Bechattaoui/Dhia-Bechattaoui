@@ -2,18 +2,13 @@
 
 Software Engineer specializing in mobile application architecture, custom UI/UX orchestration, and workflow automation. With over six years of professional experience, I focus on delivering robust, maintainable production software and optimizing complex client-side performance.
 
-Currently, I lead mobile solutions at **InnovaWide** and build automated animation frameworks at **Digital Pomegranate**.
+Currently, I lead mobile solutions at **InnovaWide**.
 
 ## Professional Experience
 
-### Digital Pomegranate — Flutter & Automation Developer
-*January 2026 – Present*
-- **Animation Orchestration Layer**: Engineered a dynamic Flutter orchestration system using parameterized Lottie JSON templates, allowing seamless runtime customization for complex animation assets.
-- **Automation Pipelines**: Built automated preprocessing pipelines using Jinja and Python to directly inject design parameters into app configurations, significantly reducing manual UI configuration overhead.
-- **Performance Optimization**: Designed a multi-layered animation container architecture that separates heavy visual layouts from lightweight interactive overlays, cutting payload sizes and improving rendering performance.
-
 ### InnovaWide for Smart Solutions — Mobile & Full-Stack Developer
 *August 2024 – Present*
+- **ABP Framework Solutions**: Architected and developed enterprise-grade modules using the ABP Framework, including a comprehensive Push Notification module integrated with Firebase for reliable real-time messaging.
 - **Enterprise Mobile Applications**: Developed and deployed production-grade applications using Flutter, native Kotlin, and Swift.
 - **Legal Tech Solutions**: Architected multi-tenant management systems for law firms to handle complex case logic, document indexing, client scheduling, and secure notifications.
 - **AI-Driven Workflows**: Integrated Azure OpenAI into legal applications to automatically summarize case files and streamline document review workflows.
